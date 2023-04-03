@@ -97,6 +97,7 @@ def payments():
     print("1. MPESA")
     print("2. PAYPAL\n")
 
+#will be used to clear the messages after running the program again
 import os
 if os.path.exists("MPESA"):
   os.remove("MPESA")
