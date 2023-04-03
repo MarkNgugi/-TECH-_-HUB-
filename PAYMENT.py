@@ -8,6 +8,8 @@ def payments():
 print("\nBELOW IS A PAYMENT METHOD LIST:: ")
 payments()
 payment_method = int(input("SELECT ONE PAYMENT METHOD::"))
+
+#condition statement for the module
 if payment_method == 1:
     #ENTER AMOUNT
     #ENTER PIN NUMBER THAT HAS BEEN GENERATED FOR YOU
