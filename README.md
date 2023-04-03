@@ -18,5 +18,5 @@ https://github.com/White4rose/-TECH-_-HUB-.git
 
 After opening the link,,press the green code button and choose the HTTPS link then clone the project as explained above.
 
-YOu can also checkout my python repo.
+YOu can also checkout my python repo and learn more about the language from a beginner level to complex level.
 
