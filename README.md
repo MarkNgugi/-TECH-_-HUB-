@@ -1,3 +1,5 @@
+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
+
 # -TECH-_-HUB-
 
 Ensure you navigate to the directory where you want to clone the project,,Eg.if your cmd reads like C:\users\username\Downloads,,this 
